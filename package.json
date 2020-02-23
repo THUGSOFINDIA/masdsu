@@ -1,0 +1,29 @@
+{
+  "name": "oreo",
+  "version": "2.0.0",
+  "description": "Nuking bot and emoji ticket system",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "fortnite-api": "^3.4.0",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Nie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macias100/asfsadgsdgfas.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Macias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macias100/asfsadgsdgfas/issues"
+  },
+  "homepage": "https://github.com/macias100/asfsadgsdgfas#readme"
+}

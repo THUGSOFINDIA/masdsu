@@ -1,13 +1,11 @@
 {
-  "name": "oreo",
+  "name": "nuker",
   "version": "2.0.0",
-  "description": "Nuking bot and emoji ticket system",
+  "description": "Nuking bot",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^11.5.1",
-    "discord.js-commando": "^0.10.0",
-    "fortnite-api": "^3.4.0",
-    "nodemon": "^2.0.2"
+    "discord.js-commando": "^0.10.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/macias100/asfsadgsdgfas.git"
+    "url": "git+https://github.com/macias100/discord-server-nuker.git"
   },
   "keywords": [
     "Discord"
@@ -23,7 +21,7 @@
   "author": "Macias",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/macias100/asfsadgsdgfas/issues"
+    "url": "https://github.com/macias100/discord-server-nuker/issues"
   },
-  "homepage": "https://github.com/macias100/asfsadgsdgfas#readme"
+  "homepage": "https://github.com/macias100/discord-server-nuker#readme"
 }
